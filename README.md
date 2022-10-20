@@ -1,2 +1,2 @@
 # Genetic-Algorithm
- hospital scheduling using genetic algorithm
+Implementing genetic algorithm using crossover and mutation operations strategies for the hospital scheduling
